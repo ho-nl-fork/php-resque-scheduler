@@ -15,9 +15,9 @@
 		}
 	},
 	"repositories": [
-		{ "type": "git", "url": "https://github.com/chrisboulton/php-resque" }
+		{ "type": "git", "url": "https://github.com/ho-nl-fork/php-resque" }
 	],
 	"require": {
-		"chrisboulton/php-resque": "dev-master"
+		"ho-nl-fork/php-resque": "dev-master"
 	}
 }
